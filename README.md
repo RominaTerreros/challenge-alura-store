@@ -62,7 +62,3 @@ Evaluar el rendimiento de las tiendas mediante el análisis de datos para:
 
 El análisis evidencia que Tienda 4 presenta el menor desempeño global en términos de ingresos y rotación en categorías estratégicas. Aunque posee el costo promedio de envío más bajo, esta diferencia no compensa su menor facturación. Con base en los datos analizados, se identifica como la candidata más razonable para una posible decisión estratégica.
 
----
-
-
-Si quieres, puedo hacerte una versión un poco más técnica (más atractiva para reclutadores) o una versión más simple si es para portafolio inicial 👌
